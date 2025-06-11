@@ -1,7 +1,5 @@
 ---
-# **L is the list defined as L=[11,12,13,14]**
+# basic of python
 ---
----
-### **1.1 Adding in list**
----
+
 
